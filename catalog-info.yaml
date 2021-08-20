@@ -3,6 +3,8 @@ kind: Component
 metadata:
   name: backstage-react-app
   description: Test react app build with Backstage
+  annotations:
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: website
   lifecycle: experimental
