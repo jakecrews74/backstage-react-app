@@ -10,4 +10,4 @@ spec:
   lifecycle: experimental
   owner: guest
   dependsOn: 
-    - Componenet:backstage-spring-boot-service
+    - Component:backstage-spring-boot-service
