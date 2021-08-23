@@ -10,4 +10,4 @@ spec:
   lifecycle: experimental
   owner: guest
   dependsOn: 
-    - ruby-docker-example
+    - backstage-spring-boot-service
