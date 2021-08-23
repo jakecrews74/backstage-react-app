@@ -9,5 +9,5 @@ spec:
   type: website
   lifecycle: experimental
   owner: guest
-  dependsOn: 
-    - ruby-docker-example
+dependsOn: 
+  - ruby-docker-example
