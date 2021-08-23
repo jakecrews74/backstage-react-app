@@ -1,9 +1,9 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
-name: backstage-react-app
 dependsOn: 
   - ruby-docker-example
 metadata:
+  name: backstage-react-app
   description: Test react app build with Backstage
   annotations:
     backstage.io/techdocs-ref: dir:.
